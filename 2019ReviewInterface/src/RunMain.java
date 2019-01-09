@@ -2,10 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class RunMain {
-/**
- * Add document
- * @param args
- */
+
 	public static void main(String[] args) {
 		TaxPayer[] taxPayers = {
 				new EmployedPerson("Billy", "ssn-1123"),
